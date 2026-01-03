@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="">
 
-  <title> Feane new version</title>
+  <title> Feane V1</title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
