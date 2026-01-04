@@ -64,7 +64,7 @@
                 <a class="nav-link" href="about.html">A propos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="book.html">Book Table</a>
+                <a class="nav-link" href="book.html">Réservation</a>
               </li>
             </ul>
             <div class="user_option">
