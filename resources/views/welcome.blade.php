@@ -131,7 +131,7 @@
                 </button>
               </form>
               <a href="" class="order_online">
-                Order Online
+                Commander en ligne
               </a>
             </div>
           </div>
