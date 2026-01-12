@@ -173,7 +173,7 @@
                       Fast Food Restaurant
                     </h1>
                     <p>
-                  il ducimus libero ipsam.
+                  l ducimus libero ipsam.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
