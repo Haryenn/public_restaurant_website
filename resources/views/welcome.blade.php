@@ -177,7 +177,7 @@
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        Commande Now
+                        Commandez Maintenant
                       </a>
                     </div>
                   </div>
