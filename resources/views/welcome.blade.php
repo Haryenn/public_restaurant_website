@@ -173,7 +173,7 @@
                       Fast Food Restaurant
                     </h1>
                     <p>
-                  First text paragraph for testing
+                  Paragraphe de test
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
