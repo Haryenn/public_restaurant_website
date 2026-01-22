@@ -194,7 +194,7 @@
                       Fast Food Restaurant
                     </h1>
                     <p>
-                     magni quos nihil ducimus libero ipsam.
+                     gni quos nihil ducimus libero ipsam.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
