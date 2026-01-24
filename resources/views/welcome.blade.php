@@ -194,7 +194,7 @@
                       Fast Food Restaurant
                     </h1>
                     <p>
-                  ro ipsam.
+                  o ipsam.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
