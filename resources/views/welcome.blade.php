@@ -194,7 +194,7 @@
                       Fast Food Restaurant
                     </h1>
                     <p>
-                   am.
+                   m.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
