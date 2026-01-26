@@ -402,7 +402,7 @@
                     Delicious Pizza
                   </h5>
                   <p>
-                  debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  ebitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
                   </p>
                   <div class="options">
                     <h6>
