@@ -152,7 +152,8 @@
                       Fast Food Restaurant
                     </h1>
                     <p>
-                       e error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                      
+                       error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
