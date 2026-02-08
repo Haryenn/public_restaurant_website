@@ -153,7 +153,7 @@
                     </h1>
                     <p>
                       
-                    mque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                    que, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
