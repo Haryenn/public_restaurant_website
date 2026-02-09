@@ -153,7 +153,7 @@
                     </h1>
                     <p>
                       
-                    bore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                    ore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
