@@ -153,7 +153,7 @@
                     </h1>
                     <p>
                       
-                    ellat dolore, iste magni quos nihil ducimus libero ipsam.
+                    llat dolore, iste magni quos nihil ducimus libero ipsam.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
